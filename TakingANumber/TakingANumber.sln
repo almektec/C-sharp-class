@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakingANumber", "TakingANumber\TakingANumber.csproj", "{15139AE4-EDD2-4803-A7AF-9895B8F561F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15139AE4-EDD2-4803-A7AF-9895B8F561F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15139AE4-EDD2-4803-A7AF-9895B8F561F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15139AE4-EDD2-4803-A7AF-9895B8F561F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15139AE4-EDD2-4803-A7AF-9895B8F561F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAAB4395-C330-427F-A158-292A90DABF30}
+	EndGlobalSection
+EndGlobal
